@@ -103,4 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-main.py
+dowens.json
+url.txt
+admin.txt
